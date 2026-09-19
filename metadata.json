@@ -1,0 +1,6 @@
+{
+  "name": "Heart Disease Prediction: End-to-End ML Pipeline",
+  "description": "Interactive machine learning capstone pipeline with custom Logistic Regression and Decision Tree implementations, EDA, evaluation, and patient risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
